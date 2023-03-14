@@ -21,14 +21,14 @@ namespace mod4
         }
 
         public class posisikarakterGame{
-            enum state { Terbang, Jongkok };
+            //enum state { Terbang, Jongkok };
 
             public static void Main(string[] args)
             {
                
                 Console.WriteLine("tombolx tombolw");
 
-                state gerak = state.Terbang;
+                //state gerak = state.Terbang;
                 String perintah = "tombolx ditekan";
                 Console.WriteLine("masukan perintah :");
 
@@ -39,11 +39,11 @@ namespace mod4
                    
                     if (perintah == "tombolx ditekan")
                     {
-                        gerak = state.Terbang;
+                        //gerak = state.Terbang;
                         Console.WriteLine("posisi landing");
                     }
                     else if (perintah == "tombolw ditekan"){
-                        gerak = state.Jongkok;
+                        //gerak = state.Jongkok;
                         Console.WriteLine("Posisi takeoff");
                     }
 
