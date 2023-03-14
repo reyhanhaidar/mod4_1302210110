@@ -1,0 +1,8 @@
+C:\Users\PRAKTIKAN\Downloads\mod4\mod4\bin\Debug\mod4.exe.config
+C:\Users\PRAKTIKAN\Downloads\mod4\mod4\bin\Debug\mod4.exe
+C:\Users\PRAKTIKAN\Downloads\mod4\mod4\bin\Debug\mod4.pdb
+C:\Users\PRAKTIKAN\Downloads\mod4\mod4\obj\Debug\mod4.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\mod4\mod4\obj\Debug\mod4.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRAKTIKAN\Downloads\mod4\mod4\obj\Debug\mod4.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Downloads\mod4\mod4\obj\Debug\mod4.exe
+C:\Users\PRAKTIKAN\Downloads\mod4\mod4\obj\Debug\mod4.pdb
